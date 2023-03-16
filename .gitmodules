@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "robCompositions"]
+	path = robCompositions
+	url = https://github.com/matthias-da/robcompositions
+	shallow = true
+	registered = true
