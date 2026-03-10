@@ -5,6 +5,9 @@
 [submodule "heaping"]
 	path = heaping
 	url = https://github.com/matthias-da/heaping
+[submodule "pep725"]
+	path = pep725
+	url = https://github.com/matthias-da/pep725
 [submodule "robCompositions"]
 	path = robCompositions
 	url = https://github.com/matthias-da/robcompositions
