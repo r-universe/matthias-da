@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "deepImp"]
+	path = deepImp
+	url = https://github.com/cran/deepImp
 [submodule "heaping"]
 	path = heaping
 	url = https://github.com/matthias-da/heaping
