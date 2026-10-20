@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "deepImp"]
 	path = deepImp
-	url = https://github.com/cran/deepImp
+	url = https://github.com/matthias-da/deepimp
 [submodule "heaping"]
 	path = heaping
 	url = https://github.com/matthias-da/heaping
